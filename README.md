@@ -12,7 +12,7 @@ Seu objetivo será desenvolver uma API que consuma diariamente das rotas da api 
 Além disso precisará fazer uma rota com SEGURANÇA, utilizando JWT, que liste os primeiros 20 resultados completos dos pokémons (tudo que tem direito).
 
 ## Mas será que eu consigo?
-Claro que consegue, você é muito bom e inteligente! Só precisa saber (ou aprender agora =] ) um pouco sobre:
+Consegue sim! Você só precisa saber um pouco sobre:
 - Conceitos de API RESTful
 - Modelagem de Dados
 - Algum tipo de banco de dados, por exemplo: MySQL, SQLServer, MongoDB, etc...
