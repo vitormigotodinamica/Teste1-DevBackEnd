@@ -1,4 +1,4 @@
-# Teste para Desenvolvedor BackEnd Pleno - DNC Group
+# Teste para Desenvolvedor BackEnd - DNC Group
 
 Fala meu Dev! Tudo na paz? 
 Estamos sempre procurando desenvolvedores que sejam mega interessados e instigados sempre em aprender cada vez mais.
