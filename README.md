@@ -7,9 +7,9 @@ Pensando nisso queremos te propor um desafio. Você não vai precisar realizar e
 Bora pro teste?
 
 ## Desafio Pokémon!
-Seu objetivo será desenvolver uma API que consuma diariamente das rotas da api https://pokeapi.co/api/v2/. Para isso, você precisará criar uma base de dados que seja alimentada das informaçõe da API obtendo todos os dados sobre todos os pokemons dela! 
+Seu objetivo será desenvolver uma API que consuma diariamente das rotas da api https://pokeapi.co/api/v2/. Para isso, você precisará criar uma base de dados que seja alimentada das informaçõe da API obtendo todos os dados sobre todos os pokemons dela!
 
-Além disso precisará fazer uma rota com SEGURANÇA que liste os primeiros 20 resultados completos dos pokémons (tudo que tem direito).
+Além disso precisará fazer uma rota com SEGURANÇA, utilizando JWT, que liste os primeiros 20 resultados completos dos pokémons (tudo que tem direito).
 
 ## Mas será que eu consigo?
 Claro que consegue, você é muito bom e inteligente! Só precisa saber (ou aprender agora =] ) um pouco sobre:
@@ -20,11 +20,11 @@ Claro que consegue, você é muito bom e inteligente! Só precisa saber (ou apre
 
 Ah, deixa eu te contar, você pode utilizar qualquer linguagem que precisar.
 
-## Mas dotor, como eu começo?
+## Mas como eu começo?
 Primeiramente, você pode fazer um fork deste repositório para sua conta do Git e depois disso criar uma branch nova com o seu nome [ex: nome_sobrenome], para nós podermos saber que é você né.
 
 ## Isso e acabou?!
-Sim só isso, mas se você quiser ir além pode usar um pouco de docker, microserviço, funções Lambda e até mostrar que você domina algumas coisas da AWS.
+Sim só isso, mas se você quiser ir além pode usar um pouco de docker, microsserviço, funções Lambda e até mostrar que você domina algumas coisas da AWS.
 
 ## Boa sorte pra você <3 !
 Quero muito contar com sua companhia programando do meu lado, aprendendo mais ainda e me ensinando muita coisa também!
